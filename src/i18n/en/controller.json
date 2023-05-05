@@ -1,0 +1,10 @@
+{
+  "common.200": "success",
+  "common.201": "created",
+  "common.302": "deleted",
+  "common.401": "unauthorized",
+  "common.403": "forbidden",
+  "common.404": "not found",
+  "common.422": "unprocessable",
+  "common.500": "internal server error"
+}

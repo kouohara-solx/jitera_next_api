@@ -1,0 +1,13 @@
+{
+  "feature.email_login.passwords.not_found_in_database": "Eメールまたはパスワードが違います",
+  "feature.email_login.passwords.old_password_mismatch": "現在のパスワードが正しくありません",
+  "feature.email_login.registrations.failed_to_sign_up": "操作する権限がありません",
+  "feature.email_login.reset_password.expired": "アクセストークンの有効期限が切れました",
+  "feature.email_login.reset_password.invalid_token": "アクセストークンが無効です",
+  "common.errors.record_not_uniq_error": "既に同様のデータが登録されています",
+  "common.errors.token.inactive": "アカウントが有効化されていません",
+  "common.errors.token.locked": "アカウントはロックされています",
+  "common.errors.unauthorized_error": "操作する権限がありません",
+  "common.token.inactive": "アカウントが有効化されていません",
+  "common.token.locked": "アカウントはロックされています"
+}
